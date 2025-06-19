@@ -2,7 +2,7 @@
 
 A comprehensive web application for tracking and managing student progress in competitive programming, specifically focusing on Codeforces performance.
 
-demo-<video controls src="demo.mp4" title="Title"></video>
+demo-<video controls src="https://drive.google.com/file/d/1uFmkaRyB8U73-x_cJC0gp9Cj-9TqBnzs/view?usp=sharing" title="Title"></video>
 
 ## Features
 
