@@ -142,35 +142,3 @@ The system includes two automated cron jobs:
 }
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## Scripts
-
-- `npm start` - Start both frontend and backend servers
-- `npm run server` - Start backend server only
-- `npm run client` - Start frontend server only
-- `npm run install-all` - Install dependencies for all components
-
-## License
-
-MIT License
-
-## Support
-
-For support, please open an issue in the repository or contact the maintainers.
-
-## Future Enhancements
-
-1. Additional coding platform integrations (LeetCode, HackerRank)
-2. Performance analytics dashboard
-3. Customizable email templates
-4. Mobile application
-5. Group management features
-
-
